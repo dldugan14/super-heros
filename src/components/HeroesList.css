@@ -20,11 +20,11 @@
   border-radius: 4px;
 }
 .heroes li.selected:hover {
-  background-color: #bbd8dc !important;
+  background-color: #120397 !important;
   color: white;
 }
 .heroes li:hover {
-  color: #607d8b;
+  color: #446e81;
   background-color: #ddd;
   left: 0.1em;
 }
@@ -37,7 +37,7 @@
   font-size: small;
   color: white;
   padding: 0.8em 0.7em 0 0.7em;
-  background-color: #607d8b;
+  background-color: #00405e;
   line-height: 1em;
   position: relative;
   left: -1px;
